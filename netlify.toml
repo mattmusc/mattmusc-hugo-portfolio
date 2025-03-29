@@ -1,0 +1,8 @@
+[build]
+publish = "public"
+command = "npm run build"
+
+[build.environment]
+HUGO_VERSION = "0.121.2"  # or your preferred Hugo version
+HUGO_ENV = "production"
+NODE_VERSION = "20"
