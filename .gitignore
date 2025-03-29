@@ -5,3 +5,4 @@ resources/
 hugo_stats.json
 #content/**/*.jpg
 .idea/
+.DS_Store
