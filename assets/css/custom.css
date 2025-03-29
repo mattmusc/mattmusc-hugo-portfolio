@@ -33,3 +33,15 @@ body > header {
   margin-bottom: 0;
 }
 */
+
+.card figure {
+    overflow: hidden; /* hide image overflow on zoom */
+}
+
+.card figure>img {
+    transition: transform 0.3s ease;
+}
+
+.card figure:hover > img {
+    transform: scale(1.05);
+}
