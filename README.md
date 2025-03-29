@@ -1,11 +1,9 @@
-# Example site for hugo-theme-gallery
-
-## Installation
+# My personal portfolio website
 
 ```
 # Install Hugo module
 hugo mod get
 
-# Pull example images from Unsplash
-./pull-images.sh
+# Run the site in dev
+npm run dev
 ```
