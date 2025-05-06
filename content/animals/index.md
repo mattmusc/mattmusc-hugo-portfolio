@@ -1,7 +1,7 @@
 ---
 date: 2025-03-28
 title: Animals
-description: Collection of animals pictures
+description:
 menus: "main"
 #categories: ["animals"]
 weight: 1

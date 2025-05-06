@@ -1,7 +1,7 @@
 ---
 date: 2025-03-28
 title: Street
-description: Collection of street pictures
+description:
 menus: "main"
 #categories: ["street"]
 weight: 4

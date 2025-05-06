@@ -1,7 +1,7 @@
 ---
 date: 2025-03-28
 title: Landscapes
-description: Collection of landscapes pictures
+description:
 menus: "main"
 #categories: ["landscapes"]
 weight: 2

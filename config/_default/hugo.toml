@@ -4,12 +4,12 @@ enableRobotsTXT = true
 languageCode = "en"
 timeZone = "Europe/Rome"
 timeout = "120s"
-title = "mattmusc photos"
+title = "matteo muscella - photography"
 
 [params]
   defaultTheme = "dark"
   description = "My photography showcase"
-  title = "mattmusc photos"
+  title = "matteo muscella - photography"
   [params.author]
     email = "matteo[dot]muscella[at]yahoo[dot]com"
     name = "Matteo Muscella"

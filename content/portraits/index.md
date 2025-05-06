@@ -1,10 +1,10 @@
 ---
 date: 2025-03-28
-title: Sport
+title: Portraits
 description:
 menus: "main"
-#categories: ["sport"]
-weight: 3
+#categories: ["street"]
+weight: 5
 type: "gallery"
 params:
   theme: dark

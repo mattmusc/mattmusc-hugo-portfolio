@@ -1,6 +1,6 @@
 ---
-description: Step into my world through the lens. This space is where I share moments captured in time. Enjoy :)
-title: Welcome to my photography world!
+description: Software engineer with a strong passion for photography
+title: Matteo Muscella - Photography
 menus:
   main:
     name: Home
