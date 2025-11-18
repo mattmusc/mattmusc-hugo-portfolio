@@ -5,6 +5,7 @@
     "dev": "hugo server",
     "clean": "rm -rf resources/ public/",
     "exif": "python3 set_description_from_exif.py --skip-tagged --stats content/**/*.jpg",
-    "images:size": "/usr/bin/env bash ./scripts/images_size.sh"
+    "images:size": "/usr/bin/env bash ./scripts/images_size.sh",
+    "images:optimize": "/usr/bin/env bash ./scripts/optimize_images.sh"
   }
 }
