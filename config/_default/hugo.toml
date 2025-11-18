@@ -4,7 +4,7 @@ enableRobotsTXT = true
 languageCode = "en"
 timeZone = "Europe/Rome"
 timeout = "120s"
-title = "matteo muscella - photography"
+title = "matteo muscella"
 
 [params]
   defaultTheme = "dark"

@@ -3,7 +3,7 @@ date: 2025-03-28
 title: Portraits
 description:
 menus: "main"
-#categories: ["street"]
+#categories: ["urban"]
 weight: 5
 type: "gallery"
 params:
