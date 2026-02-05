@@ -1,11 +1,13 @@
 ---
-layout: page
+layout: prose
 rss_ignore: true
 title: About
 menu:
   main:
     weight: 90
 ---
+
+{{< img src="/me.jpg" alt="Matteo" id="about-me-pic" >}}
 
 Matteo visualizes the frame long before the click.
 His photography is a commitment to the moment where motion, light, and geometry align.

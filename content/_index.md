@@ -1,6 +1,6 @@
 ---
-description: Visualizing the frame before the click. Specializing in the 'peak moment' of professional sports and the silent geometries of the urban landscape. Precise, evocative, and always alert.
-title: Welcome!
+description:
+title: Portfolio
 menus:
   main:
     name: Home

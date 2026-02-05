@@ -3,7 +3,7 @@
   "scripts": {
     "build": "hugo --gc --minify",
     "dev": "hugo server",
-    "clean": "rm -rf resources/ public/",
+    "clean": "rm -rf resources/ public/ .hugo_build.lock",
     "exif": "python3 scripts/set_description_from_exif.py --skip-tagged --stats content/**/*.jpg",
     "images:size": "bash ./scripts/calculate_size.sh",
     "images:optimize": "bash ./scripts/optimize_size.sh",
