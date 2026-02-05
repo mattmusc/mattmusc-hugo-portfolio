@@ -1,10 +1,10 @@
 ---
 date: 2025-03-28
-title: Animals
+title: Wildlife & Nature
 description:
 menus: "main"
 #categories: ["animals"]
-weight: 1
+weight: 2
 type: "gallery"
 params:
   theme: dark

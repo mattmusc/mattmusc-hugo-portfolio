@@ -1,10 +1,10 @@
 ---
 date: 2025-03-28
-title: Sport
+title: Urban & Architecture
 description:
 menus: "main"
-#categories: ["sport"]
-weight: 1
+#categories: ["urban_architecture"]
+weight: 3
 type: "gallery"
 params:
   theme: dark

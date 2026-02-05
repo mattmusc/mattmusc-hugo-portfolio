@@ -7,9 +7,10 @@ menu:
     weight: 90
 ---
 
-Hi, I’m a 1992-born software engineer with a deep passion for photography.
+Matteo visualizes the frame long before the click.
+His photography is a commitment to the moment where motion, light, and geometry align.
 
-While I spend my days crafting code and building digital solutions,
-photography is my creative outlet — a way to slow down and observe the world from a different perspective.
+Born in 1992, He spent years refining his eye across different disciplines.
+Whether He's capturing the high-velocity tension of an F1 track, the raw energy of an NBA court, or the silent symmetries of a metropolis, his goal is to strip away the noise and find the essential.
 
-From spontaneous street scenes to serene landscapes, I love framing the beauty I see around me.
+He seeks the beauty in the instant, observing the world with a perspective that values precision and raw emotion in equal measure.
