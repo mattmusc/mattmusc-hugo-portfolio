@@ -9,10 +9,8 @@ menu:
 
 {{< img src="/me.jpg" alt="Matteo" id="about-me-pic" >}}
 
-Matteo visualizes the frame long before the click.
-His photography is a commitment to the moment where motion, light, and geometry align.
+I often see the frame long before I press the shutter. My photography begins where motion, light and geometry meet.
 
-Born in 1992, He spent years refining his eye across different disciplines.
-Whether He's capturing the high-velocity tension of an F1 track, the raw energy of an NBA court, or the silent symmetries of a metropolis, his goal is to strip away the noise and find the essential.
+Born in 1992, I have refined my eye across very different disciplines—from the tension of a racing circuit and the energy of a basketball court to the quiet symmetry of a city.
 
-He seeks the beauty in the instant, observing the world with a perspective that values precision and raw emotion in equal measure.
+In every image, I try to remove the noise and find what is essential: a precise instant with an honest emotion.

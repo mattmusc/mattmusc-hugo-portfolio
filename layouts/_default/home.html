@@ -1,0 +1,13 @@
+{{ define "main" }}
+  <section class="home-intro">
+    <p class="eyebrow">{{ .Site.Params.home.eyebrow }}</p>
+    <h1>{{ .Site.Params.home.headline | safeHTML }}</h1>
+    <p class="intro-copy">{{ .Site.Params.home.introduction }}</p>
+  </section>
+
+  <section class="galleries home-galleries" aria-label="{{ .Site.Params.home.collectionsLabel }}">
+    {{ range where .Pages "Params.private" "ne" true }}
+      {{ partial "album-card.html" . }}
+    {{ end }}
+  </section>
+{{ end }}

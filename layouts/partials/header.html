@@ -1,0 +1,14 @@
+<header class="site-header">
+  <a class="site-brand" href="{{ .Site.Home.RelPermalink }}">
+    <span>MM</span>
+    <strong>Matteo Muscella</strong>
+  </a>
+
+  {{ with site.Menus.main }}
+    <nav class="site-nav" aria-label="Primary navigation">
+      {{ range . }}
+        <a aria-current="{{ or (page.IsMenuCurrent .Menu .) (page.HasMenuCurrent .Menu .) }}" href="{{ .URL }}">{{ .Name }}</a>
+      {{ end }}
+    </nav>
+  {{ end }}
+</header>

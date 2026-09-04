@@ -1,15 +1,20 @@
-copyright = "© matteo muscella"
+copyright = "© Matteo Muscella"
 defaultContentLanguage = "en"
 enableRobotsTXT = true
-languageCode = "en"
+locale = "en-US"
 timeZone = "Europe/Rome"
 timeout = "120s"
-title = "matteo muscella"
+title = "Matteo Muscella"
 
 [params]
   defaultTheme = "dark"
-  description = "My photography showcase"
-  title = "matteo muscella - photography"
+  description = "People, sport, wildlife and urban photography by Matteo Muscella."
+  title = "Matteo Muscella — Photography"
+  [params.home]
+    eyebrow = "Independent photographer · Milan, Italy"
+    headline = "Light, motion<br />and geometry."
+    introduction = "Selected stories of people, sport, wildlife and urban life by Matteo Muscella."
+    collectionsLabel = "Photography collections"
   [params.author]
     email = "matteo[dot]muscella[at]yahoo[dot]com"
     name = "Matteo Muscella"
@@ -34,12 +39,12 @@ title = "matteo muscella"
   section = ["HTML"]
 
 [imaging]
-  quality = 95
   resampleFilter = "CatmullRom"
-  [imaging.exif]
-    disableDate = false
-    disableLatLong = true
-    includeFields = "ImageDescription|Orientation"
+  [imaging.jpeg]
+    quality = 95
+  [imaging.meta]
+    fields = ["ImageDescription", "Orientation"]
+    sources = ["exif"]
 
 [module]
   [module.hugoVersion]
